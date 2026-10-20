@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 480" role="img" aria-labelledby="title">
+  <title id="title">Illustration of a soft lavender pet bed</title>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#f0eafa"/><stop offset="1" stop-color="#fff0e7"/></linearGradient><linearGradient id="bed" x2="0" y2="1"><stop stop-color="#d9c7e8"/><stop offset="1" stop-color="#a996c9"/></linearGradient></defs>
+  <rect width="720" height="480" rx="36" fill="url(#bg)"/>
+  <circle cx="558" cy="102" r="52" fill="#fff4ce"/>
+  <ellipse cx="360" cy="359" rx="210" ry="31" fill="#58477920"/>
+  <ellipse cx="360" cy="270" rx="205" ry="117" fill="url(#bed)" stroke="#756390" stroke-width="11"/>
+  <ellipse cx="360" cy="246" rx="148" ry="72" fill="#f7e8df" stroke="#756390" stroke-width="9"/>
+  <path d="M262 244c20-47 76-69 120-48 23 11 36 33 36 60-39 27-106 29-156-12z" fill="#e4a38d"/>
+  <path d="M310 207l-9-37m88 38 20-34" stroke="#b76d6b" stroke-width="12" stroke-linecap="round"/>
+  <text x="360" y="438" text-anchor="middle" fill="#584779" font-family="Arial,sans-serif" font-size="25" font-weight="700">SOFT PET BED</text>
+</svg>

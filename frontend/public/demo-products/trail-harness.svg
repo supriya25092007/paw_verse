@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 480" role="img" aria-labelledby="title">
+  <title id="title">Illustration of a coral pet walking harness</title>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#fff0e7"/><stop offset="1" stop-color="#f2e9fb"/></linearGradient>
+    <linearGradient id="strap" x2="1" y2="1"><stop stop-color="#e97867"/><stop offset="1" stop-color="#bd5363"/></linearGradient>
+  </defs>
+  <rect width="720" height="480" rx="36" fill="url(#bg)"/>
+  <circle cx="570" cy="95" r="54" fill="#fff7d9"/>
+  <path d="M252 118c-51 0-89 37-89 87v60c0 33 25 58 58 58h48l34 66h116l34-66h48c33 0 58-25 58-58v-60c0-50-38-87-89-87h-33l-37 46h-78l-37-46z" fill="url(#strap)" stroke="#8f4556" stroke-width="12" stroke-linejoin="round"/>
+  <path d="M318 155h84l37 46v56H281v-56z" fill="none" stroke="#ffd1b9" stroke-width="14" stroke-linejoin="round"/>
+  <path d="M273 322h178M348 201v60" stroke="#ffe6d6" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="360" cy="229" r="21" fill="#fff4dd"/>
+  <path d="M352 229h16m-8-8v16" stroke="#c26466" stroke-width="5" stroke-linecap="round"/>
+  <text x="360" y="438" text-anchor="middle" fill="#704d63" font-family="Arial,sans-serif" font-size="25" font-weight="700">TRAIL-READY HARNESS</text>
+</svg>
